@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jitendrachadar
-- 👀 I’m interested in software development, particularly in building innovative web tools and Chrome extensions.
+- 👀 I’m interested in software development, particularly in building innovative web tools.
 - 🌱 I’m currently learning advanced JavaScript frameworks and enhancing skills in user experience design.
 - 💞️ I’m looking to collaborate on projects involving web development, open-source contributions, and innovative tool creation.
 - 📫 How to reach me: jitendrachadar.jc@gmail.com
